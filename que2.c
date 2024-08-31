@@ -6,7 +6,7 @@ int main()
     printf("enter the num: ");
     scanf("%d",&num);
 
-    for(int i=1;num!=0;i++)
+    for(i=1;num!=0;i++)
     {   
    
         num =num/10;
